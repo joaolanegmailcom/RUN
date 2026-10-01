@@ -1,5 +1,5 @@
 MERCADO_PAGO_ACCESS_TOKEN
-BASE44_APP_ID
 BASE44_API_TOKEN
-APP_URL
-MP_SANDBOX
+qualquer senha
+qualquer chave secreta
+.env
